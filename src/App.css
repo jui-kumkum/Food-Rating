@@ -1,0 +1,40 @@
+.form {
+  width: 60%;
+  padding: 10px 20px;
+  margin: auto;
+}
+.form form input {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.itemBox {
+  width: 60%;
+  margin: auto;
+}
+
+
+.itemBox h1 {
+  text-align: center;
+}
+
+.allItem {
+  width: 100%;
+}
+.item {
+  overflow: hidden;
+  width: 42%;
+  float: left;
+  text-align: center;
+  margin: 2%;
+  border: 1px solid black;
+  border-radius: 7px;
+  padding: 10px;
+}
+
+.item button {
+  border-radius: 4px;
+  border: none;
+  background-color: darkgreen;
+  font-size: 20px;
+}
